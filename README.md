@@ -1,6 +1,6 @@
 # AngularPwa
 
-More info in [savethecode.com](http://savethecode.com)
+More info in [savethecode.com/building-an-angular5-progressive-web-app](http://www.savethecode.com/building-an-angular5-progressive-web-app/)
 
 ## NPM tasks
 
